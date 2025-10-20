@@ -57,7 +57,6 @@ plt.show()
 # sns.histplot(veri['Fiyat'])
 # plt.show()
 
-
 # Define the target (Y) and feature variables (X):
 X = veri[['Oda_Sayısı', 'Net_m2', 'Katı', 'Yaşı']]
 Y = veri['Fiyat']
